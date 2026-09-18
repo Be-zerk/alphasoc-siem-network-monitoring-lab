@@ -1,0 +1,17 @@
+# Secrets / credentials
+.env
+*.key
+credentials*
+secrets*
+config.yml
+config.yaml
+
+# Logs / generated output
+*.log
+output/
+data/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
